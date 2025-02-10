@@ -13,7 +13,8 @@
   "license": "ISC",
   "dependencies": {
     "discord.js": "^14.14.1",
-    "dotenv": "^16.4.7"
+    "dotenv": "^16.4.7",
+    "wake_on_lan": "^1.0.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.19.0",
